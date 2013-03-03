@@ -1,4 +1,3 @@
 include README.md
 include COPYING
 include CHANGES.txt
-include example_tac.tac
